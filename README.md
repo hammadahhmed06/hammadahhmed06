@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hammad Ahmed 👋</h1>
 
 <p align="center">
-  <em>BSIT Student · Aspiring Software Developer · AI & ML Enthusiast</em>
+  <em>Junior Backend Developer @ Insurance Revolution · BSIT @ NUML Islamabad · AI & LLM Systems Builder</em>
 </p>
 
 <p align="center">
@@ -16,40 +16,90 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education:** Bachelor of Science in Information Technology (BSIT) at **NUML Islamabad**
-- 🚀 **Passions:** Software Development • Artificial Intelligence • Machine Learning
-- 🌱 **Currently learning:** modern frameworks, data structures & algorithms, and ML fundamentals
+- 🎓 **Education:** BS Information Technology · **NUML Islamabad** · CGPA 3.5/4.0 *(Sep 2022 – Present)*
+- 💼 **Current Role:** Junior Backend Developer at **Insurance Revolution** (Manchester, UK — Remote)
+- 🤖 **Focus Areas:** Backend APIs · AI/LLM Multi-Agent Systems · Full-Stack Development
 - 💡 **Goal:** Build intelligent, impactful software that solves real-world problems
-- 📫 **Reach me at:** [GitHub](https://github.com/hammadahhmed06)
+- 📍 Islamabad, Pakistan
+- 📫 **Reach me:** [hammadahhmed06@gmail.com](mailto:hammadahhmed06@gmail.com)
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-### Languages
+### Languages & Backend
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
 </p>
 
-### AI / ML
+### Frontend & UI
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
-### Tools & Platforms
+### AI & LLM Systems
 <p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+</p>
+
+### Databases & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
+
+---
+
+## 💼 Experience
+
+**Insurance Revolution** · Junior Backend Developer | Manchester, UK *(Mar 2026 – Present)*
+- Develop and maintain 15+ production REST APIs handling enterprise insurance workflows, reducing average response time by 30%.
+- Architected modular database integration layers across 3 core services, cutting data access errors by ~40% in production.
+- Streamlined OAuth authentication flows and 3rd-party integrations, improving onboarding time for new service connections by 50%.
+
+**Insurance Revolution** · Software Engineer Intern *(Dec 2025 – Mar 2026)*
+- Delivered 4 backend modules now running in production, achieving full adoption within the first 3 weeks of onboarding.
+- Improved CI/CD pipeline reliability by 25% through automated test coverage expansion and code review contributions.
+
+**Fauji Foundation** · Full Stack Developer *(Jul 2025 – Aug 2025)*
+- Built a full-stack e-commerce platform (React.js + Spring Boot + Oracle DB) handling 500+ product SKUs with live transaction support.
+- Designed 10+ REST APIs for catalog, auth, and payments, reducing manual order-processing time by 60% for internal staff.
+
+---
+
+## 🚀 Featured Projects
+
+### [CogniSim AI](https://github.com/hammadahhmed06) — Multi-Agent Project Management Platform
+`React` `FastAPI` `Gemini` `Supabase`
+- Architected a ~74k LOC multi-agent platform reducing manual sprint-planning effort by 80% through automated epic decomposition and PRD generation.
+- Designed a 7-agent orchestration pipeline with Pydantic I/O contracts and JSON-repair fallback, achieving 95%+ reliable LLM response parsing.
+- Built SSE-based real-time streaming cutting perceived task latency by 70%, enabling partial-result rendering during long-running AI operations.
+
+### [AI Research Orchestrator](https://github.com/hammadahhmed06/AI-Research-Orchestrator)
+`OpenAI Agents SDK` `Gemini` `Python`
+- Built a 4-agent pipeline (planner → retriever → summarizer → synthesizer) that generates structured reports 5× faster than manual research.
+- Reduced context drift across multi-step chains using shared memory state and handoff protocols, improving report coherence by ~35%.
+
+### [Natural Language SQL Agent](https://github.com/hammadahhmed06/SQL_AGENT)
+`LangChain` `PostgreSQL` `Python`
+- Developed an LLM agent converting natural-language queries to validated SQL with dynamic schema introspection across 10+ table schemas.
+- Implemented a self-correction retry loop cutting hallucinated query errors by 60%, increasing successful execution rate to over 90%.
 
 ---
 
@@ -66,14 +116,12 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🏅 Certifications
 
-| Area | Focus |
-|------|-------|
-| 🤖 Artificial Intelligence | Fundamentals of AI & problem-solving algorithms |
-| 📊 Machine Learning | Supervised/unsupervised learning, model evaluation |
-| 🌐 Software Development | Full-stack web development & clean architecture |
-| 🧮 Data Structures & Algorithms | Competitive programming & interview prep |
+- **CrewAI** — Multi AI Agent Systems
+- **Meta** — Introducing Multimodal Llama 3.2
+- **DeepLearning.AI** — Building Systems with the ChatGPT API
+- **DeepLearning.AI** — AI Python for Beginners
 
 ---
 
@@ -84,7 +132,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:hammadahhmed06@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
