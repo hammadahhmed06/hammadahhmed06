@@ -85,7 +85,9 @@
 
 ## 🚀 Featured Projects
 
-### [CogniSim AI](https://github.com/hammadahhmed06) — Multi-Agent Project Management Platform
+### CogniSim AI — Multi-Agent Project Management Platform
+[Frontend](https://github.com/hammadahhmed06/CogniSim-AI) · [Backend](https://github.com/hammadahhmed06/cognisimai_backend)
+
 `React` `FastAPI` `Gemini` `Supabase`
 - Architected a ~74k LOC multi-agent platform reducing manual sprint-planning effort by 80% through automated epic decomposition and PRD generation.
 - Designed a 7-agent orchestration pipeline with Pydantic I/O contracts and JSON-repair fallback, achieving 95%+ reliable LLM response parsing.
@@ -130,6 +132,10 @@
 <p align="center">
   <a href="https://github.com/hammadahhmed06">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/hammadahhmed06">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:hammadahhmed06@gmail.com">
