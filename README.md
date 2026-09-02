@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hammad Ahmed 👋</h1>
 
 <p align="center">
-  <em>Junior Backend Developer @ Insurance Revolution · BSIT @ NUML Islamabad · AI & LLM Systems Builder</em>
+  <em> SWE(Backend) @ Insurance Revolution · BSIT @ NUML Islamabad · AI & LLM Systems Builder</em>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@
 
 ## 💼 Experience
 
-**Insurance Revolution** · Junior Backend Developer | Manchester, UK *(Mar 2026 – Present)*
+**Insurance Revolution** · SWE(Backend) | Manchester, UK *(Mar 2026 – Present)*
 - Develop and maintain 15+ production REST APIs handling enterprise insurance workflows, reducing average response time by 30%.
 - Architected modular database integration layers across 3 core services, cutting data access errors by ~40% in production.
 - Streamlined OAuth authentication flows and 3rd-party integrations, improving onboarding time for new service connections by 50%.
